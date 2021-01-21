@@ -15,5 +15,7 @@
     "express": "^4.17.1",
     "nuxt": "^2.14.6"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^3.4.2"
+  }
 }

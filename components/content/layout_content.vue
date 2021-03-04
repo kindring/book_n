@@ -1,5 +1,5 @@
 <template>
-  <div class="w-full">
+  <div class="w-full ">
     首页内容
   </div>
 </template>

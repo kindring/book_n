@@ -6,7 +6,6 @@
       mode="horizontal" 
       class="a_menu"
     >
-
       <a-sub-menu :key="key" v-for="(item, key) in menuList">
           <span slot="title">
             <a-icon :type="item.icon" />
